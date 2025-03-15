@@ -15,7 +15,6 @@ export default function App() {
         titleTemplate="%s - Create React Ant Design Boilerplate"
         defaultTitle="Create React Ant Design Boilerplate"
       >
-        
         <meta name="description" content="A Create React Ant Design Boilerplate application" />
       </Helmet>
       <Header />
